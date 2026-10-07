@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rihem
 
-<!--
-**rihem-khouildi/rihem-khouildi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Engineer**, graduated from the National Engineering School of Tunis (ENIT), focused on **AI and software engineering**.
 
-Here are some ideas to get you started:
+I build multi-agent AI systems and the software around them: backends, interfaces and CI/CD pipelines. For my final-year project, I designed Devia, a platform where a pipeline of seven specialized AI agents turns a Jira user story into a compiled, tested and evaluated Java Spring Boot application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently looking for a software / AI engineering position.
+
+## Tech stack
+
+- **Languages:** Python · Java · JavaScript · SQL
+- **AI & Data:** AI agents · LLM & prompt engineering · RAG / GraphRAG · Scikit-learn · Pandas
+- **Web:** FastAPI · React · Node.js · Express
+- **Databases:** PostgreSQL · MySQL · MongoDB
+- **DevOps:** Docker · Jenkins · SonarQube · Azure · Prometheus · Grafana · Git
+
+## Contact
+
+- LinkedIn: [Rihem Khouildi](www.linkedin.com/in/rihem-khouildi)
