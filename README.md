@@ -16,4 +16,4 @@ I am currently looking for a software / AI engineering position.
 
 ## Contact
 
-- LinkedIn: [Rihem Khouildi](www.linkedin.com/in/rihem-khouildi)
+- LinkedIn: [Rihem Khouildi](https://www.linkedin.com/in/rihem-khouildi)
