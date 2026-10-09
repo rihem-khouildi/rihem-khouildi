@@ -11,6 +11,7 @@ I am currently looking for a software / AI engineering position.
 | Project | Description | Stack |
 |---|---|---|
 | [Devia](https://github.com/rihem-khouildi/devia-multi-agent-platform) | Multi-agent AI platform that turns a Jira user story into a compiled, tested and reviewed Spring Boot application | Python · FastAPI · React · LLM agents · GraphRAG · Docker · Jenkins · Azure |
+| [Drug Side-Effect Prediction](https://github.com/rihem-khouildi/drug-side-effects-prediction) | Multi-label prediction of adverse drug reactions from FAERS and SIDER data, with SHAP explainability and a Streamlit interface | Python · Scikit-learn · XGBoost · SHAP · Streamlit |
 | [Pneumonia & Air Quality Pipeline](https://github.com/rihem-khouildi/pneumonia-air-quality-pipeline) | Real-time Big Data pipeline computing a pneumonia risk score per city | Kafka · Spark · HDFS · Cassandra · Flask |
 | [RedCiné](https://github.com/rihem-khouildi/redcine-cinema-booking) | Cinema booking web application | Jakarta EE · JSP · MySQL · WildFly |
 
